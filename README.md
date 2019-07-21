@@ -4,8 +4,8 @@
 The data prediction competition host by ESUN Bank, that it purpose to predict Taiwan real estate. The following are important codes recommended.
 
 * Data process & model
-  * "model & data process/XGBoost_gbtree.ipynb"
-  * "model & data process/TensorFlow_LinearRegressor.ipynb"
+  * <a href="https://github.com/cghaocg/TBrain-Esun-2019-Taiwan_Real_Estate_Prediction/blob/master/model%20%26%20data%20process/XGBoost_gbtree.ipynb">model & data process/XGBoost_gbtree.ipynb</a>
+  * <a href="https://github.com/cghaocg/TBrain-Esun-2019-Taiwan_Real_Estate_Prediction/blob/master/model%20%26%20data%20process/TensorFlow_LinearRegressor.ipynb">model & data process/TensorFlow_LinearRegressor.ipynb</a>
   
 * Summary
-  * "summary/summary.ipynb"
+  * <a href="https://github.com/cghaocg/TBrain-Esun-2019-Taiwan_Real_Estate_Prediction/blob/master/summary/summary.ipynb">summary/summary.ipynb</a>
